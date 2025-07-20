@@ -1,17 +1,16 @@
 # 🎓 ScholarBot – Your AI Research Assistant
 
-![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/ScholarBot)
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/ScholarBot?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/ScholarBot?style=social)
-![License](https://img.shields.io/github/license/YOUR_USERNAME/ScholarBot)
+![GitHub repo size](https://img.shields.io/github/repo-size/Ibad-Ur-Rahman-Memon/ScholarBot)
+![GitHub stars](https://img.shields.io/github/stars/Ibad-Ur-Rahman-Memon/ScholarBot?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Ibad-Ur-Rahman-Memon/ScholarBot?style=social)
+![License](https://img.shields.io/github/license/Ibad-Ur-Rahman-Memon/ScholarBot)
 
 ScholarBot is a powerful yet lightweight **AI-powered research assistant** that allows users to upload **PDFs** or insert **article URLs**, then ask intelligent academic questions. It uses **OpenAI GPT-3.5**, **LangChain**, and **FAISS** to provide fast, contextual answers — with proper citations!
 
 Whether you're a **student**, **researcher**, or a **curious learner**, ScholarBot simplifies academic exploration.
 
 ---
-
-## 📸 Demo Preview
+## 📸 Display Preview
 
 ### 🔖 Thumbnail  
 ![Thumbnail](assets/Thumbnail.png)
@@ -22,7 +21,6 @@ Whether you're a **student**, **researcher**, or a **curious learner**, ScholarB
 | ![URLs Input](assets/URLs_inputs.png) | ![Answer](assets/URLs_Answer_1.png) |
 
 ---
-
 ## 🚀 Features
 
 - ✅ Ask questions from research **PDF documents** or **URLs**
@@ -34,7 +32,6 @@ Whether you're a **student**, **researcher**, or a **curious learner**, ScholarB
 - ✅ Works **locally** or on **Google Colab**
 
 ---
-
 ## 🧱 Tech Stack
 
 | Layer           | Technology                               |
@@ -47,7 +44,6 @@ Whether you're a **student**, **researcher**, or a **curious learner**, ScholarB
 | ⚙️ Framework      | LangChain                               |
 
 ---
-
 ## 🧩 Project Structure
 
 ```txt
@@ -63,10 +59,9 @@ ScholarBot/
 │   └── faiss_index/       # Auto-generated FAISS store
 ├── .gitignore
 └── README.md
-
+```
 ---
-
-##🔧 Installation & Setup
+## 🔧 Installation & Setup
 
 1. Clone the Repository
 git clone https://github.com/YOUR_USERNAME/ScholarBot.git
@@ -95,8 +90,7 @@ ngrok.set_auth_token("your_ngrok_token")
 public_url = ngrok.connect(8501)
 
 ---
-
-##📚 Requirements
+## 📚 Requirements
 Your requirements.txt should include:
 
 streamlit
@@ -109,11 +103,11 @@ faiss-cpu
 PyPDF2
 
 ---
-
-##📜 License
+## 📜 License
 Licensed under the MIT License.
 
-##🙋‍♂️ About the Author
+---
+## 🙋‍♂️ About the Author
 Ibad Ur Rahman
 🎓 Computer Systems Engineering – Sukkur IBA University
 📬 ibadurrahmanmemon.becsef22@iba-suk.edu.pk
