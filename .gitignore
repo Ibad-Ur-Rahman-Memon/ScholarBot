@@ -1,0 +1,33 @@
+# IDE folders
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Environment variables
+.env
+
+# FAISS vector index
+src/faiss_index/
+
+# Streamlit config cache
+.streamlit/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# OS metadata
+.DS_Store
+Thumbs.db
