@@ -55,8 +55,8 @@ ScholarBot/
 ├── src/
 │   ├── main.py
 │   ├── requirements.txt
-│   ├── .env               # Your OpenAI key (excluded from Git)
-│   └── faiss_index/       # Auto-generated FAISS store
+│   ├── .env               
+│   └── faiss_index/       
 ├── .gitignore
 └── README.md
 ```
@@ -106,7 +106,6 @@ PyPDF2
 ## 📜 License
 Licensed under the MIT License.
 
----
 ## 🙋‍♂️ About the Author
 Ibad Ur Rahman
 🎓 Computer Systems Engineering – Sukkur IBA University
